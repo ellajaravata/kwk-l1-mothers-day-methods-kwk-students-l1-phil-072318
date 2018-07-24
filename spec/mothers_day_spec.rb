@@ -11,5 +11,4 @@ describe "mothers_day.rb" do
   it 'defaults to Mom when no name is passed in' do
     expect(mothers_day()).to eq("Happy Mother's Day, Mom!")
   end
-  
-end
+
